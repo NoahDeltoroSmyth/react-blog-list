@@ -11,6 +11,9 @@ Object {
         <header>
           Alchemedium
         </header>
+        <footer>
+          Copyright Alchemy Codelab 2021-2022
+        </footer>
         <div
           class="blog-card"
         >
@@ -711,9 +714,6 @@ Dolorem quis est in veritatis ipsum est voluptas autem praesentium. Est repudian
             />
           </div>
         </div>
-        <footer>
-          Copyright Alchemy Codelab 2021-2022
-        </footer>
       </section>
     </div>
   </body>,
@@ -724,6 +724,9 @@ Dolorem quis est in veritatis ipsum est voluptas autem praesentium. Est repudian
       <header>
         Alchemedium
       </header>
+      <footer>
+        Copyright Alchemy Codelab 2021-2022
+      </footer>
       <div
         class="blog-card"
       >
@@ -1424,9 +1427,6 @@ Dolorem quis est in veritatis ipsum est voluptas autem praesentium. Est repudian
           />
         </div>
       </div>
-      <footer>
-        Copyright Alchemy Codelab 2021-2022
-      </footer>
     </section>
   </div>,
   "debug": [Function],
